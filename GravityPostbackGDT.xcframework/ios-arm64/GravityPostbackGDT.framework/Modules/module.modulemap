@@ -1,0 +1,6 @@
+framework module GravityPostbackGDT {
+  umbrella header "GravityPostbackGDT.h"
+  export *
+
+  module * { export * }
+}
